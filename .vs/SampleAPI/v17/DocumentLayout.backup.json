@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThienAn\\source\\repos\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57BFDD37-C87C-4323-B816-7F275CDE9FD9}|SampleAPI\\SampleAPI.csproj|c:\\users\\thienan\\source\\repos\\sampleapi\\sampleapi\\models\\bookstoredatabasesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BFDD37-C87C-4323-B816-7F275CDE9FD9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\bookstoredatabasesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BFDD37-C87C-4323-B816-7F275CDE9FD9}|SampleAPI\\SampleAPI.csproj|c:\\users\\thienan\\source\\repos\\sampleapi\\sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BFDD37-C87C-4323-B816-7F275CDE9FD9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookStoreDatabaseSetting.cs",
+              "DocumentMoniker": "C:\\Users\\ThienAn\\source\\repos\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "ToolTip": "C:\\Users\\ThienAn\\source\\repos\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\BookStoreDatabaseSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:05:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ThienAn\\source\\repos\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ThienAn\\source\\repos\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:02:32.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
